@@ -13,6 +13,6 @@ let name = "Trillzdboy";
 
    }
 
- }
+
 
  console.log(data)
